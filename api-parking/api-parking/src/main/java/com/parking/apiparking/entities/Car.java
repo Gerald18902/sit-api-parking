@@ -1,5 +1,7 @@
 package com.parking.apiparking.entities;
 
+import java.time.LocalDateTime;
+
 public class Car {
     private String licensePlate;
     private String color;
